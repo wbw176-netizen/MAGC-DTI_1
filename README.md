@@ -1,1 +1,4 @@
-#MAGC-DTI
+# MAGC-DTI
+
+The codebase is currently being prepared for release and will be available soon.
+Thank you for your patience.
