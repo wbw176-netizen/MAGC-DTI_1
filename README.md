@@ -242,7 +242,7 @@ Run K-fold validation on raw CSV data:
 cd code
 python 5fold_validation.py \
   --data BindingDB \
-  --split random1 \
+  --split random \
   --n_splits 5
 ```
 
